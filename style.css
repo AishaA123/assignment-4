@@ -1,0 +1,110 @@
+@font-face{font-family:serina ; src: url(fonts/Sarina/Sarina-Regular.ttf);}
+@font-face{font-family: bangers; src: url(fonts/Bangers/Bangers-Regular.ttf);}
+
+@font-face{font-family: blackops; src: url(fonts/Black_Ops_One/BlackOpsOne-Regular.ttf);}
+
+@font-face{font-family: bungee; src: url(fonts/Bungee/Bungee-Regular.ttf);}
+
+@font-face{font-family:cookie ; src: url(fonts/Cookie/Cookie-Regular.ttf);}
+
+@font-face{font-family:lobster ; src: url(fonts/Lobster/Lobster-Regular.ttf);}
+
+@font-face{font-family:monoton ; src: url(fonts/Monoton/Monoton-Regular.ttf);}
+
+@font-face{font-family:changa ; src: url(fonts/Changa/static/Changa-Medium.ttf);}
+
+@font-face{font-family:luck ; src: url(fonts/Luckiest_Guy/LuckiestGuy-Regular.ttf);}
+
+@font-face{font-family:khush ; src: url(fonts/Kaushan_Script/KaushanScript-Regular.ttf);}
+
+@font-face{font-family:tino ; src: url(fonts/Tinos/Tinos-Regular.ttf);}
+
+@font-face{font-family:oleo ; src: url(fonts/Oleo_Script_Swash_Caps/OleoScriptSwashCaps-Regular.ttf);}
+
+@font-face{font-family:pat ; src: url(fonts/Patua_One/PatuaOne-Regular.ttf);}
+
+@font-face{font-family:calistoga ; src: url(fonts/Calistoga/Calistoga-Regular.ttf);}
+
+@font-face{font-family:acme ; src: url(fonts/Acme/Acme-Regular.ttf);}
+
+@font-face{font-family:eb ; src: url(fonts/EB_Garamond/static/EBGaramond-Regular.ttf);}
+
+@font-face{font-family:vast ; src: url(fonts/Vast_Shadow/VastShadow-Regular.ttf);}
+
+@font-face{font-family:milto ; src: url(fonts/Miltonian/Miltonian-Regular.ttf);}
+
+@font-face{font-family:acro ; src: url(fonts/Akronim/Akronim-Regular.ttf);}
+
+@font-face{font-family:heny ; src: url(fonts/Henny_Penny/HennyPenny-Regular.ttf);}
+
+@font-face{font-family:vast ; src: url(fonts/Vast_Shadow/VastShadow-Regular.ttf);}
+
+@font-face{font-family:ruge ; src: url(fonts/Ruge_Boogie/RugeBoogie-Regular.ttf);}
+
+@font-face{font-family:jost ; src: url(fonts/Jost/Jost-Regular.ttf);}
+
+@font-face{font-family:gill1 ; src: url(fonts/gill-sans-std-cufonfonts/GillSansStdLightShadowed.otf);}
+
+@font-face{font-family:gill2 ; src: url(fonts/gill-sans-std-cufonfonts/GillSansStdLight.otf);}
+
+
+*{margin: 0px;padding: 0px;}
+
+.topbar{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+/* .navbar{background-color: #3a3352 !important;}
+
+.nav-link{color: white !important; font-weight: bold;} */
+
+.navbar {background-color:  #3a3352 !important; 
+    font-family:jost;}
+
+   .navigation ul li:hover{background: #eecf5b;
+        border-radius: 20px ; 
+       margin: 1px;
+       padding: 3px;
+       height: 40px;
+    }
+
+.nav-link{color: white !important;}
+
+.collapse{margin: 20px !important; background-color: #3a3352 !important;}
+
+/* .maincard{margin: 30px; }
+
+.card1, .card2, .card3 {background-color:gainsboro; box-shadow: 2px 2px 3px silver;
+width: 30%; height: 150px; display: inline-block;} */
+
+.line{font-family: acme;  text-align: center; background-color: rgb(221, 220, 220); 
+    margin-top: 50px;}
+
+
+    .categories{font-size: 40px; font-family: heny;
+         margin: 30px; padding: 30px; font-weight: lighter;
+        font-weight: bold; text-align: center; }
+    
+    .card1{font-size: 13px; font-family: acme; text-decoration: none;
+         width: 180px !important;
+    height: auto !important; margin: 5px; }
+    
+    .card-title{font-family:acme; font-size: 16px;
+    color: rgb(83, 77, 83); text-decoration: none; }
+    .card1:hover{background:gainsboro;}
+
+
+    .company{font-family:tino;  background-color:#3a3352; color: white;
+        width: 100%; }
+        
+     
+h5.provide{text-align: center; font-family: acme; color: teal;}
+
+
+.paragraph{margin: 20px; margin-top: 50px; margin-bottom: 50px;
+margin-top: 70px;}     
+    
+
+    .copyright{background-color:#316dd9; padding: 15px; color: white; 
+        font-size: 13px; font-family: Arial, Helvetica, sans-serif; padding-left: 80px;}
+
+.goto{position:fixed;
+    top: 560px; left: 1270px;}
